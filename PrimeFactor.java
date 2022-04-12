@@ -1,4 +1,8 @@
 package AssignmentDay5;
+/**
+ * @author Snehal Nakade
+ *  Prime Factor
+ */
 import java.util.Scanner;
 
 public class PrimeFactor {

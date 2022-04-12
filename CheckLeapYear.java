@@ -1,7 +1,7 @@
 package AssignmentDay5;
 
 /**
- * @author sneha - Leap year or not
+ * @author Snehal Nakade - Leap year or not
  *
  */
 import java.util.Scanner;

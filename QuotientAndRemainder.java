@@ -1,4 +1,8 @@
 package AssignmentDay5;
+/**
+ * @author Snehal Nakade - Quotient And Remainder
+ *  
+ */
 
 import java.util.Scanner;
 import Utility.Util;

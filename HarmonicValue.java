@@ -1,5 +1,12 @@
 package AssignmentDay5;
 import java.util.Scanner;
+/**
+ * Harmonic Value
+ * 
+ * @author : Snehal Nakade
+ *
+ */
+
 
 
 public class HarmonicValue {

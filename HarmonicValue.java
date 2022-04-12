@@ -6,9 +6,6 @@ import java.util.Scanner;
  * @author : Snehal Nakade
  *
  */
-
-
-
 public class HarmonicValue {
 	public static void main(String arg[]) {
 	double n,i;

@@ -1,4 +1,10 @@
 package AssignmentDay5;
+/**
+ * Largest Number Among three
+ * 
+ * @author : Snehal Nakade
+ *
+ */
 import java.util.Scanner;
 public class LargestNumber {
 	public static void main(String[] args) {

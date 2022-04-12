@@ -1,5 +1,12 @@
 package AssignmentDay5;
 import java.util.Scanner;
+/**
+ * Flip COin Percentage
+ * 
+ * @author : Snehal Nakade
+ *
+ */
+
 
 import Utility.Util;
 public class FlipCoin {

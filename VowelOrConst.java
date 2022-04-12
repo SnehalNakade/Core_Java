@@ -1,4 +1,8 @@
 package AssignmentDay5;
+/**
+ * @author Snehal Nakade - Vowel OR CONSONANT
+ *
+ */
 
 import java.util.Scanner;
 

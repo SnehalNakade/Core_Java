@@ -1,4 +1,10 @@
 package AssignmentDay5;
+/**
+ * Even or odd
+ * 
+ * @author : Snehal Nakade
+ *
+ */
 
 import java.util.Scanner;
 

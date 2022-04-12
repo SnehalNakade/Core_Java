@@ -1,5 +1,9 @@
 package AssignmentDay5;
-
+/**
+ * This program takes a command-line argument N and prints a table of the powers of 2 that are less than or equal to 2^N. 
+ * @author Snehal Nakade
+ *
+ */
 import java.util.Scanner;
 
 import Utility.Util;
